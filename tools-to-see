@@ -1,0 +1,38 @@
+-gradle
+-jd-gui
+-hibernate - a popular persistence API/object relational mapping (ORM) Java tool
+-mysql -  one of the most popular open source databases
+-docker-a leading software container platform
+-vmware - a virtualization tool that allows users to partition a single physical server into multiple virtual machines
+
+-grails - a programming framework, jvm built on Spring Boot
+-overops - Proactively detect when deployments produce errors
+-yourkit - one of the most popular Java profiling tools on the market
+-findbugs - a static code analysis tool looking for bugs in Java code
+-jrat
+-log4j
+-checkstyle - a leading syntax checking tool
+-jprofiler
+-teamcity - build management and continuous integration server tool for Java
+-jenkins - the leading open source automation server
+
+-junit
+-jmeter
+-mockito - Java mocking framework
+-selenium - automated browser web testing java tool
+
+Java Web Frameworks
+-angularJS
+-springMVC
+-vaadin
+
+App servers
+-Tomcat
+-WebLogic by Oracle
+-WebSphere by IBM
+-Mesos by Apache
+-JBoss EA
+
+Messaging
+-Hazelcast - stores frequently used data across a scalable grid
+-ActiveMQ - a leader in open source messaging and integration patterns
