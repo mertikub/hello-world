@@ -1,0 +1,6 @@
+
+#centos open port 8080
+iptables -A INPUT -m state --state NEW -p tcp --dport 8080 -j ACCEPT
+#restart iptables
+/etc/init.d/iptables restart
+
